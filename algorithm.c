@@ -1,7 +1,7 @@
 
 #include "algorithm.h"
 #include "miner.h"
-
+#include <bits/stdc++.h> 
 #include <inttypes.h>
 #include <string.h>
 
